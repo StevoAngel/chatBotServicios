@@ -1,2 +1,1 @@
-re
-random
+Flask==2.0.2
